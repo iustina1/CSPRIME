@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+  padding-top: 80px; /* Prevents body content from being hidden behind the fixed navbar */
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px; /* Adds extra spacing between the navbar and the container */
+}
+
+.title {
+  font-size: 2em;
+  color: #0056b3;
+  margin-bottom: 20px;
+}
+
+.grid-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 2600px; /* Reduced padding to avoid extra vertical spacing */
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  max-width: 900px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border: 2px solid #0056b3;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+  text-align: center;
+}
+
+.card:hover {
+  background: #e0f0ff;
+}

@@ -1,0 +1,142 @@
+/* Page Layout */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Wrapper */
+.about-wrapper {
+    display: flex;
+    width: 850px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+/* Logo Section */
+.about-logo {
+    width: 35%;
+    background: #f8f9fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.about-logo-image {
+    width: 100%;
+    max-width: 250px;
+}
+
+/* Content Section */
+.about-content {
+    width: 65%;
+    padding: 30px;
+    text-align: center;
+}
+
+/* Main Title */
+.about-main-title {
+    font-size: 26px;
+    color: #2c3e50;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+/* Subheading */
+.about-content h2 {
+    font-size: 22px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Paragraph Styling */
+.about-content p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+/* Feature List */
+.about-content h3 {
+    font-size: 18px;
+    color: #2c3e50;
+    margin-top: 15px;
+    text-align: left;
+}
+
+.about-content ul {
+    text-align: left;
+    padding: 0;
+    list-style-type: none;
+}
+
+.about-content ul li {
+    font-size: 14px;
+    padding: 5px 0;
+    border-left: 3px solid #3b82f6;
+    padding-left: 10px;
+}
+
+/* Buttons */
+.about-buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.about-button {
+    padding: 10px 18px;
+    font-size: 14px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.about-signup {
+    background-color: #2563eb;
+}
+
+.about-button:hover {
+    background-color: #2563eb;
+    transform: scale(1.05);
+}
+
+.about-signup:hover {
+    background-color: #1e40af;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .about-wrapper {
+        flex-direction: column;
+        width: 90%;
+    }
+
+    .about-logo {
+        width: 100%;
+        padding: 30px;
+    }
+
+    .about-content {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .about-buttons {
+        flex-direction: column;
+        gap: 10px;
+    }
+}

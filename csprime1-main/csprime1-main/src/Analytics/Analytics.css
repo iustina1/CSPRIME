@@ -1,0 +1,108 @@
+/* General Styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Main Container */
+.analytics-container {
+  width: 90%;
+  max-width: 800px;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+/* Title */
+h2 {
+  color: #0056b3;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Description */
+p {
+  color: #555;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+/* Dropdown */
+label {
+  font-weight: bold;
+  color: #333;
+  display: block;
+  margin-top: 10px;
+}
+
+#moduleSelect {
+  padding: 8px;
+  margin-top: 5px;
+  border: 2px solid #0056b3;
+  border-radius: 5px;
+  background-color: white;
+  cursor: pointer;
+}
+
+/* Table */
+.analytics-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+.analytics-table th {
+  background: #0056b3;
+  color: white;
+  padding: 10px;
+  text-align: left;
+}
+
+.analytics-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.analytics-table tr:nth-child(even) {
+  background: #f9f9f9;
+}
+
+/* Hover Effect */
+.analytics-table tr:hover {
+  background-color: #e0f0ff;
+}
+
+/* Skills Section */
+.skills-section {
+  margin-top: 20px;
+  padding: 15px;
+  background: #e7f3ff; /* Light blue background */
+  border-left: 5px solid #007bff; /* Blue left border */
+  border-radius: 5px;
+  text-align: left;
+}
+
+.skills-section h3 {
+  color: #0056b3;
+  margin-bottom: 10px;
+}
+
+/* Bullet Points for Skills */
+.skills-section ul {
+  list-style-type: disc; /* Standard bullet points */
+  padding-left: 20px;
+}
+
+.skills-section li {
+  margin: 5px 0;
+  font-size: 16px;
+}
