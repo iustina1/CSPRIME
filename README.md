@@ -53,6 +53,10 @@ Related Modules Page:
 
 <img width="325" height="170" alt="related modules page" src="https://github.com/user-attachments/assets/3db2f83a-4774-471c-9185-e8979069a9f5" />
 
+Analytics Page:
+
+<img width="336" height="174" alt="analytics" src="https://github.com/user-attachments/assets/453f8a0b-d99f-4773-ab2a-9bf48eb21a2f" />
+
 Module Information Page:
 
 <img width="444" height="214" alt="Modue info" src="https://github.com/user-attachments/assets/6cc7c97d-3cf9-4bc6-84a6-2b8fe6702bb9" />
