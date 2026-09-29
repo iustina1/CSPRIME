@@ -1,10 +1,10 @@
 # CSPRIME
 
-CSPRIME is a full-stack web application developed as a final-year project to help computer science students navigate their degree[cite: 9]. It demonstrates how foundational first-year modules (such as data structures, algorithms, and core programming) form the building blocks for advanced topics, complex software engineering, and real-world industry applications[cite: 9].
+CSPRIME is a full-stack web application developed as a final-year project to help computer science students navigate their degree. It demonstrates how foundational first-year modules (such as data structures, algorithms, and core programming) form the building blocks for advanced topics, complex software engineering, and real-world industry applications.
 
 ##  Project Overview & Motivation
 
-Throughout a computer science curriculum, students often view early modules as isolated subjects rather than essential foundations[cite: 9]. CSPRIME bridges this gap by providing an interactive, structured platform that maps out how first-year concepts connect to later-year coursework and career paths[cite: 9]. 
+Throughout a computer science curriculum, students often view early modules as isolated subjects rather than essential foundations. CSPRIME bridges this gap by providing an interactive, structured platform that maps out how first-year concepts connect to later-year coursework and career paths. 
 
 ##  Tech Stack
 
@@ -30,6 +30,6 @@ The backend follows a strict Model-View-Controller (MVC) and service-repository 
 
 ##  Evaluation & Future Scope
 
-Evaluated through user testing feedback from students and peers, CSPRIME successfully met its usability and layout goals[cite: 9]. Future enhancements include implementing user-specific progress tracking dashboards and interactive support features.
+Evaluated through user testing feedback from students and peers, CSPRIME successfully met its usability and layout goals. Future enhancements include implementing user-specific progress tracking dashboards and interactive support features.
 
 To start program in terminal type in npm start, npm i, Cd csprime1
