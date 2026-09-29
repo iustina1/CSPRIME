@@ -35,13 +35,12 @@ Evaluated through user testing feedback from students and peers, CSPRIME success
 To start program in terminal type in npm start, npm i, Cd csprime1
 
 Login/SignUp Page:
-<img width="1128" height="566" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/2b8325a6-5fbf-455d-990b-ee452e1b1c91" />
+<img width="450" height="227" alt="login" src="https://github.com/user-attachments/assets/de09878f-531c-4af7-9207-94d3ef6fc445" />
+
 
 HomePage:
-<img width="1330" height="570" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/72af1882-3436-4103-95cb-b4e6c807fe88" />
+<img width="449" height="193" alt="homepage" src="https://github.com/user-attachments/assets/9665ac27-2ce7-4014-9cff-bb926fcf9742" />
 
-
-<img width="1148" height="586" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/418e83e5-8c43-4b7d-859d-4de1f47a01ab" />
 
 Modules Page:
 <img width="423" height="192" alt="modules" src="https://github.com/user-attachments/assets/7f6ef6f7-5a19-4fb2-bbda-030d7e2672f7" />
@@ -51,6 +50,10 @@ Related Modules Page:
 
 Module Information Page:
 <img width="444" height="214" alt="Modue info" src="https://github.com/user-attachments/assets/6cc7c97d-3cf9-4bc6-84a6-2b8fe6702bb9" />
+
+FAQ Page:
+<img width="329" height="166" alt="FAQ" src="https://github.com/user-attachments/assets/6a5b9cd9-ec7d-48cd-a392-47e51235e572" />
+
 
 Student Testimonials: 
 <img width="1180" height="592" alt="csprime testimonials" src="https://github.com/user-attachments/assets/e38fc76d-40db-48da-a5c2-c5f987896a74" />
