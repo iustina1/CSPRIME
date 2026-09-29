@@ -38,25 +38,29 @@ Login/SignUp Page:
 <img width="450" height="227" alt="login" src="https://github.com/user-attachments/assets/de09878f-531c-4af7-9207-94d3ef6fc445" />
 
 
+
 HomePage:
+
 <img width="449" height="193" alt="homepage" src="https://github.com/user-attachments/assets/9665ac27-2ce7-4014-9cff-bb926fcf9742" />
 
 
 Modules Page:
+
 <img width="423" height="192" alt="modules" src="https://github.com/user-attachments/assets/7f6ef6f7-5a19-4fb2-bbda-030d7e2672f7" />
 
 Related Modules Page: 
+
 <img width="325" height="170" alt="related modules page" src="https://github.com/user-attachments/assets/3db2f83a-4774-471c-9185-e8979069a9f5" />
 
 Module Information Page:
+
 <img width="444" height="214" alt="Modue info" src="https://github.com/user-attachments/assets/6cc7c97d-3cf9-4bc6-84a6-2b8fe6702bb9" />
 
 FAQ Page:
+
 <img width="329" height="166" alt="FAQ" src="https://github.com/user-attachments/assets/6a5b9cd9-ec7d-48cd-a392-47e51235e572" />
 
 
-Student Testimonials: 
-<img width="1180" height="592" alt="csprime testimonials" src="https://github.com/user-attachments/assets/e38fc76d-40db-48da-a5c2-c5f987896a74" />
 
 
 
